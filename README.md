@@ -4,6 +4,8 @@ Ping7 publishes small defensive checkers for site owners, hosting teams, and age
 
 Live site: https://ping7.cc
 
+[Browse all Ping7 GitHub tools](https://ping7.cc/github-tools/) · [CVE dashboard](https://ping7.cc/cve/) · [CVE repair](https://ping7.cc/cve-repair/)
+
 ## GitHub Tool Pages
 
 | Tool | CVE | Browse page | Repository | Ping7 guide |
